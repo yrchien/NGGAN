@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
     Modified program hyperparameters to align with the values specified in the research paper. 
+    Some parameters used for testing purposes have been removed to avoid confusion. 
 ### Fixed
  
 In this version update, the program's hyperparameters have been adjusted to align with the values outlined in the research paper.
